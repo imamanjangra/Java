@@ -254,24 +254,24 @@
 
 
 // --------------------------------------------Array----------------------------------
-public class Demo {
+// public class Demo {
 
-    public static void main(String[] args) {
+//     public static void main(String[] args) {
         
-        String[] cars = {"BMW" , "Volvo" , "Aude"};
+//         String[] cars = {"BMW" , "Volvo" , "Aude"};
         
-        System.out.println(cars[0]);
+//         System.out.println(cars[0]);
 
-        String[] name  =  new String[2];
-        name[0] = "Aman";
-        name[1] = "Tarun";
+//         String[] name  =  new String[2];
+//         name[0] = "Aman";
+//         name[1] = "Tarun";
         
 
-        System.out.println(name[0]);
+//         System.out.println(name[0]);
 
-        int[][] number = {{1 , 2 , 3} ,{5 , 7, 8}};
+//         int[][] number = {{1 , 2 , 3} ,{5 , 7, 8}};
 
-        System.out.println(number[0][1]);
-        System.out.println(number[0].length);
-    }
-}
+//         System.out.println(number[0][1]);
+//         System.out.println(number[0].length);
+//     }
+// }
