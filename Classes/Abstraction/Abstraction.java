@@ -4,7 +4,7 @@ package Classes.Abstraction;
 
 abstract class InnerAbstraction {
 
-    
+    // Abstract methode dose not have a body in there 
     public abstract void sound();
 
 }
